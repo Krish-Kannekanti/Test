@@ -2,7 +2,6 @@
 // Implementing AES encryption
 // Usage: java DE1A key < original > encrypted.de1
 
-//Git Comment
 // Git comment check
 
 import java.io.*;
